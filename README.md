@@ -7,6 +7,7 @@ In order to install the NSS-TODO-List (extended) application:
 <ul>
 <li>Make sure that you have a server installed that can serve PHP. Apache would be a good option.</li>
 <li>Make sure you have a PHP 5.2.5 or higher installed on your system.</li>
+<li><strong>Note:</strong> You can download an installer like XAMPP for the above two requirements.</li>
 <li>Start the Apache server if it is not already running.</li>
 <li>Checkout the project from here (https://github.com/nxqamar/nss-todo-list-extended.git) and put it in the 'htdocs' (/www) folder of Apache.</li>
 <li><strong>Note:</strong> You may want to explore your file read/write permissions on your local file system.</li>
