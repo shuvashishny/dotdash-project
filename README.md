@@ -1,4 +1,4 @@
-This is a fun project where I briefly extend the functionality of <a href="https://github.com/amadeuspzs/TODO/tree/NSS-TODO">NSS-TODO-List v 1.1</a> made by "amadeus.maclab.org".
+This is a fun project where I briefly extended the functionality of <a href="https://github.com/amadeuspzs/TODO/tree/NSS-TODO">NSS-TODO-List v 1.1</a> made by "amadeus.maclab.org".
 
 
 <h3>Setup:</h3>
