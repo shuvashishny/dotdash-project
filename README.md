@@ -16,7 +16,7 @@ In order to install the NSS-TODO-List (extended) application:
 Write test cases to test various functionalities and features of this app. Imagine you are a QA Lead and how would you go about successfully testing this app. The more scenarios you cover the better coverage you can provide. Please provide your test cases in plain English and paste them under /test_cases.txt file.
 
 <h3>Automation:</h3>
-The goal is to use Selenium Webdriver with preferably Java bindings (or any other OO language of your choice). Automate the above test cases in order to test the functional flow through of the application. In particular, we want to test options around creating a todo, assigning categories, modifying/deleting existing todos etc. The application should itself be fairly self-explanatory. Feel free to email us (nqamar@about.com) with any questions about it.
+The goal is to use Selenium Webdriver with preferably Java bindings (or any other OO language of your choice). Automate the above test cases in order to test the functional flow through of the application. In particular, we want to test options around creating a todo, assigning categories, modifying/deleting existing todos etc. The application should itself be fairly self-explanatory. Feel free to email us (qa@about.com) with any questions about it.
 
 
 <h3>Bonus exercise:</h3>
