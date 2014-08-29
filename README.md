@@ -11,7 +11,7 @@ In order to install the NSS-TODO-List (extended) application:
 <li>Start the Apache server if it is not already running. Verify by going to localhost in your browser</li>
 <li>Checkout the project and put all its contents in the 'htdocs' (/www) folder of Apache.</li>
 <li><strong>Note:</strong> You may want to explore your file read/write permissions on your local file system.</li>
-<li>Go to http://localhost/nss-todo-list-extended/index.php and access the application.</li>
+<li>Go to http://localhost/nss-todo-automation/index.php (or whatever name you have given to the folder containing all of the project files) and access the application.</li>
 </ul>
 <h3>Test Cases:</h3>
 Write test cases to test various functionalities and features of this app. Imagine you are a QA Lead and how would you go about successfully testing this app. The more scenarios you cover the better coverage you can provide. Please provide your test cases in plain English and paste them under /test_cases.txt file.
@@ -24,13 +24,17 @@ The goal is to use Selenium Webdriver with preferably Java bindings (or any othe
 Try to use Cucumber. Translate the above test cases to Cucumber gherkin code and then automate them.
 
 <h3>Submission instructions:</h3>
-Simply create a new branch under the same repository and push your changes. It is fine if you already have a personal GitHub repository. Just sumbit the proper link to your exercise. Please try to use only one branch and avoid pushing your changes to the master branch!
+Follow the Github standard collaboration procedure. 
+<h4>Option A:</h4> You can fork this repository, setup a local branch, push the references (changes) remotely and then ccreate a pull request back to us us. 
+<h4>Option B:</h4>  You can be added as a collaborator to this project where you can create your own separate branch and commit changes to it. For second option your Github username handle needs to be authorized by this project owner. 
+<h4>Option C:</h4> It is also fine if you already have a personal GitHub repository and you would want to avoid pull requests. Just sumbit the proper link that points to your exercise.
 
 <h3>Resources:</h3>
 <ul>
-<li>API call for backend data validation: There's a fake API call that outputs JSON of the flat file at http://localhost/nss-todo-list-extended/fake-API-call.php </li>
+<li>API call for backend data validation: There's a fake API call that outputs JSON of the flat file at http://localhost/nss-todo-automation/fake-API-call.php </li>
 <li>Cucumber documentation: https://github.com/cucumber/cucumber/wiki </li>
 <li>Selenium documentation: http://docs.seleniumhq.org/projects/webdriver/ </li>
 </ul>
+
 
 
