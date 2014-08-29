@@ -26,8 +26,10 @@ Try to use Cucumber. Translate the above test cases to Cucumber gherkin code and
 Simply create a new branch under the same repository and push your changes. It is fine if you already have a personal GitHub repository. Just sumbit the proper link to your exercise. Please try to use only one branch and avoid pushing your changes to the master branch!
 
 <h3>Resources:</h3>
+<ul>
 <li>API call for backend data validation: There's a fake API call that outputs JSON of the flat file at http://localhost/nss-todo-list-extended/fake-API-call.php </li>
 <li>Cucumber documentation: https://github.com/cucumber/cucumber/wiki </li>
 <li>Selenium documentation: http://docs.seleniumhq.org/projects/webdriver/ </li>
+</ul>
 
 
