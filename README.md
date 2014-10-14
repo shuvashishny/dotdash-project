@@ -27,7 +27,7 @@ Try to use Cucumber. Translate the above test cases to Cucumber gherkin code and
 Follow the Github standard collaboration procedure. 
 <h4>Option A:</h4> You can fork this repository, setup a local branch, push the references (changes) remotely and then ccreate a pull request back to us us. 
 <h4>Option B:</h4>  You can be added as a collaborator to this project where you can create your own separate branch and commit changes to it. For second option your Github username handle needs to be authorized by this project owner. 
-<h4>Option C:</h4> It is also fine if you already have a personal GitHub repository and you would want to avoid pull requests. Just sumbit the proper link that points to your exercise.
+<h4>Option C:</h4> It is also fine if you already have a personal GitHub repository and you would want to avoid pull requests. Just sumbit the proper link t   hat points to your exercise.
 
 <h3>Resources:</h3>
 <ul>
