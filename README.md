@@ -19,7 +19,7 @@ Write test cases to test various functionalities and features of this app. Imagi
 <h4>API Test Cases:</h4>
 
 
-<h4>Note:</h4> There can be more than above suggested test cases.
+Note: There can be more than below suggested test cases.
 <ul>
 <li>Test service status of the API endpoint (only one in this case)</li>
 <li>Find how many tasks do not have "category" assigned</li>
