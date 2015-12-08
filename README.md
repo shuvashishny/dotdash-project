@@ -14,14 +14,27 @@ In order to install the NSS-TODO-List (extended) application:
 <li>Go to http://localhost/nss-todo-automation/index.php (or whatever name you have given to the folder containing all of the project files) and access the application.</li>
 </ul>
 <h3>Test Cases:</h3>
-Write test cases to test various functionalities and features of this app. Imagine you are a QA Lead and how would you go about successfully testing this app. The more scenarios you cover the better coverage you can provide. Please provide your test cases in plain English and paste them under /test_cases.txt file.
+Write test cases to test various functionalities and features of this app. Imagine you are a QA Lead and how would you go about successfully testing this app. The more scenarios you cover the better coverage you can provide. First test the API call and then test the interface and functionality of this app. Please provide your test cases in plain English and paste them under /test_cases.txt file.
+
+<h4>API Test Cases:</h4>
+
+
+<h4>Note:</h4> There can be more than above suggested test cases.
+<ul>
+<li>Test service status of the API endpoint (only one in this case)</li>
+<li>Find how many tasks do not have "category" assigned</li>
+<li>Aggregate and print only "task names"</li>
+<li>Read API response and print tasks in descending "due date" order</li>
+<li>Count and validate the number of tasks</li>
+</ul>
 
 <h3>Automation:</h3>
-The goal is to use Selenium Webdriver with preferably Java bindings (or any other OO language of your choice). Automate the above test cases in order to test the functional flow through of the application. In particular, we want to test options around creating a todo, assigning categories, modifying/deleting existing todos etc. The application should itself be fairly self-explanatory. Feel free to email us (qa@about.com) with any questions about it.
+The goal is to use access the fake API call at http://localhost/nss-todo-automation/fake-API-call.php and automate above suggested test cases. 
+Selenium Webdriver with preferably Python bindings (or any other OO language of your choice). Automate the above test cases in order to test the functional flow through of the application. In particular, we want to test options around creating a todo, assigning categories, modifying/deleting existing todos etc. The application should itself be fairly self-explanatory. Feel free to email us (qa@about.com) with any questions about it. Please use the application first to populate data for API. I would suggest create some dunny tasks.
 
 
 <h3>Bonus exercise:</h3>
-Try to use Cucumber. Translate the above test cases to Cucumber gherkin code and then automate them.
+Try to use Cucumber (Or any other wholesome BDD framework). First translate the above test cases to Cucumber Gherkin code, and then automate them.
 
 <h3>Submission instructions:</h3>
 Follow the Github standard collaboration procedure. 
