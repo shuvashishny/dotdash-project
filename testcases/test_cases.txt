@@ -1,1 +1,12 @@
-//please add your test cases here.
+
+Test Case 1: Verify that when I add a todo list without Category and Due date, It appear in the todo list and then I delete the newly created task  and task should not be there.
+
+Test case 2 : When I add a todo list with Category but without Due date then in the todo list it will be shown in the list and then delete new task.
+
+Test case 3: When I add a todo list with Category and Due date then we should see the new todo list with Category and Due date.
+
+Test case 4 : When I delete a todo task then the task should not be shown in the list. 
+
+Test case 5: Verify that we can add category it shows in the category list.
+
+
